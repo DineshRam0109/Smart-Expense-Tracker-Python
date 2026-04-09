@@ -97,7 +97,7 @@ python expense_tracker.py
 Sample Data Format
 
 expenses.json
-```json
+json
 {
   "date": "2026-04-01",
   "category": "Food",
