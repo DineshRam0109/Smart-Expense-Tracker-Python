@@ -1,0 +1,105 @@
+[
+  {
+    "date": "2025-09-01",
+    "category": "Travel",
+    "amount": 3000.0,
+    "description": "Munnar Trip"
+  },
+  {
+    "date": "2026-04-01",
+    "category": "Food",
+    "amount": 28.5,
+    "description": "Groceries at supermarket",
+    "timestamp": "2026-04-01T10:30:00.000000"
+  },
+  {
+    "date": "2026-04-02",
+    "category": "Food",
+    "amount": 12.99,
+    "description": "Lunch at work",
+    "timestamp": "2026-04-02T12:15:00.000000"
+  },
+  {
+    "date": "2026-04-02",
+    "category": "Bills",
+    "amount": 60.0,
+    "description": "Internet bill",
+    "timestamp": "2026-04-02T18:30:00.000000"
+  },
+  {
+    "date": "2026-04-03",
+    "category": "Entertainment",
+    "amount": 19.99,
+    "description": "Movie tickets",
+    "timestamp": "2026-04-03T19:00:00.000000"
+  },
+  {
+    "date": "2026-04-03",
+    "category": "Food",
+    "amount": 35.4,
+    "description": "Restaurant dinner",
+    "timestamp": "2026-04-03T19:45:00.000000"
+  },
+  {
+    "date": "2026-04-04",
+    "category": "Shopping",
+    "amount": 75.0,
+    "description": "New shoes",
+    "timestamp": "2026-04-04T14:30:00.000000"
+  },
+  {
+    "date": "2026-04-04",
+    "category": "Health",
+    "amount": 25.0,
+    "description": "Gym membership",
+    "timestamp": "2026-04-04T15:00:00.000000"
+  },
+  {
+    "date": "2026-04-05",
+    "category": "Food",
+    "amount": 22.5,
+    "description": "Coffee and breakfast",
+    "timestamp": "2026-04-05T08:30:00.000000"
+  },
+  {
+    "date": "2026-04-05",
+    "category": "Travel",
+    "amount": 45.0,
+    "description": "Uber rides",
+    "timestamp": "2026-04-05T17:00:00.000000"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Education",
+    "amount": 50.0,
+    "description": "Online course",
+    "timestamp": "2026-04-06T10:00:00.000000"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Food",
+    "amount": 18.75,
+    "description": "Snacks",
+    "timestamp": "2026-04-06T16:30:00.000000"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Bills",
+    "amount": 100.0,
+    "description": "Electricity bill",
+    "timestamp": "2026-04-07T09:00:00.000000"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Shopping",
+    "amount": 42.99,
+    "description": "Book and stationery",
+    "timestamp": "2026-04-07T15:45:00.000000"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Food",
+    "amount": 200.0,
+    "description": "Burger"
+  }
+]
