@@ -57,6 +57,7 @@ Monthly summary includes:
 
 ## Project Structure
 
+```
 Python_MiniProject/
 │
 ├── expense_tracker.py
@@ -75,7 +76,7 @@ Python_MiniProject/
 ├── screenshot_2
 ├── screenshot_3
 
-
+```
 ---
 
 ## Installation and Setup
@@ -107,7 +108,7 @@ python expense_tracker.py
 
 ["Food", "Travel", "Bills", "Entertainment"]
 
-## Detailed Documentation
+Detailed Documentation
 
 For a complete explanation of the project, including design, implementation, and all functionalities, refer to:
 
