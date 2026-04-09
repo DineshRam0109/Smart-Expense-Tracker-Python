@@ -93,23 +93,17 @@ pip install matplotlib reportlab
 # Run the application
 python expense_tracker.py
 
-## Sample Data Format
-
-### expenses.json
-```json
-{
+Sample Data Format
+expenses.json
+json{
   "date": "2026-04-01",
   "category": "Food",
   "amount": 250,
   "description": "Lunch"
 }
-
-### Categories.json
-
-["Food", "Travel", "Bills", "Entertainment"]
+categories.json
+json["Food", "Travel", "Bills", "Entertainment"]
 
 Detailed Documentation
-
 For a complete explanation of the project, including design, implementation, and all functionalities, refer to:
-
-**Smart Expense Tracker Python Documentation.pdf** (available in this repository)
+Smart Expense Tracker Python Documentation.pdf (available in this repository)
